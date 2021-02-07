@@ -1,3 +1,5 @@
+/* General Styles */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Header */
 
 .header {
     padding: 20px;
@@ -41,6 +45,8 @@ body {
     margin-left: 25px;
 }
 
+/* Text Styles */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +56,8 @@ p {
     font-size: 16px;
 }
 
+/* Background Image with Hero Div */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Floats */
 
 .float-left {
     float: left;
@@ -69,11 +79,15 @@ p {
     margin-left: 25px;
 }
 
+/* Content */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Benefits Aside */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +148,8 @@ p {
     max-width: 150px;
 }
 
+/* Main Content */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +203,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
